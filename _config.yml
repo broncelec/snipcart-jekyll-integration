@@ -13,3 +13,5 @@ markdown: kramdown
 collections:
   products:
     output: true
+
+theme: jekyll-theme-architect
